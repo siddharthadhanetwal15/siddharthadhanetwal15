@@ -46,3 +46,5 @@ Java • Python • Spring Boot • Angular • React • Kubernetes • Docker 
 - Open Source
 
 📫 **Let's connect!**
+### LinkedIn : https://www.linkedin.com/in/siddhartha-dhanetwal/
+### Medium : https://medium.com/@siddharthadhanetwal15/
